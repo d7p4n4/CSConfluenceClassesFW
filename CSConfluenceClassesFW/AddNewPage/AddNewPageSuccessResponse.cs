@@ -7,7 +7,7 @@ using Newtonsoft.Json.Converters;
 
 namespace AddNewPage
 {
-    public class AddNewPageSuccessRessponse
+    public class AddNewPageSuccessResponse
     {
         [JsonProperty("results")]
         public List<Result> Results { get; set; }
