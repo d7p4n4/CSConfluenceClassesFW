@@ -7,7 +7,7 @@ using Newtonsoft.Json.Converters;
 
 namespace CSConfluenceClassesFW.UploadAttachment
 {
-    class UploadAttachmentFailedResponse
+    public class UploadAttachmentFailedResponse
     {
         [JsonProperty("statusCode")]
         public long StatusCode { get; set; }
