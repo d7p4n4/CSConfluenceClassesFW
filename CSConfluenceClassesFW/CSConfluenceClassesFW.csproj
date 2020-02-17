@@ -44,8 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddNewPageFailedResponse.cs" />
-    <Compile Include="AddNewPageSuccessRessponse.cs" />
+    <Compile Include="AddNewPage\AddNewPageFailedResponse.cs" />
+    <Compile Include="AddNewPage\AddNewPageSuccessResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
