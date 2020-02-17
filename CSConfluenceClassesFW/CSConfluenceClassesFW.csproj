@@ -47,6 +47,8 @@
     <Compile Include="AddNewPage\AddNewPageFailedResponse.cs" />
     <Compile Include="AddNewPage\AddNewPageSuccessResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UploadAttachment\UploadAttachmentFailedResponse.cs" />
+    <Compile Include="UploadAttachment\UploadAttachmentSuccessResponse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
