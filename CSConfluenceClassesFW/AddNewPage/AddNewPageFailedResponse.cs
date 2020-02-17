@@ -7,7 +7,7 @@ using Newtonsoft.Json.Converters;
 
 namespace AddNewPage
 {
-    class AddNewPageFailedResponse
+    public class AddNewPageFailedResponse
     {
         [JsonProperty("statusCode")]
         public long StatusCode { get; set; }
