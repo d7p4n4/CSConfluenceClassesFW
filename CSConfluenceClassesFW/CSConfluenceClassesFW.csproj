@@ -46,6 +46,8 @@
   <ItemGroup>
     <Compile Include="AddNewPage\AddNewPageFailedResponse.cs" />
     <Compile Include="AddNewPage\AddNewPageSuccessResponse.cs" />
+    <Compile Include="DeletePage\DeletePageFailedResponse.cs" />
+    <Compile Include="DeletePage\DeletePageSuccessResponse.cs" />
     <Compile Include="GetIdByTitle\GetIdByTitleFailedResponse.cs" />
     <Compile Include="GetIdByTitle\GetIdByTitleSuccessResponse.cs" />
     <Compile Include="IsPageExists\IsPageExistsFailedResponse.cs" />
