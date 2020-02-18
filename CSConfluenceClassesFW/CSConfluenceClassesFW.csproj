@@ -46,6 +46,10 @@
   <ItemGroup>
     <Compile Include="AddNewPage\AddNewPageFailedResponse.cs" />
     <Compile Include="AddNewPage\AddNewPageSuccessResponse.cs" />
+    <Compile Include="GetIdByTitle\GetIdByTitleFailedResponse.cs" />
+    <Compile Include="GetIdByTitle\GetIdByTitleSuccessResponse.cs" />
+    <Compile Include="IsPageExists\IsPageExistsFailedResponse.cs" />
+    <Compile Include="IsPageExists\IsPageExistsSuccessResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UploadAttachment\UploadAttachmentFailedResponse.cs" />
     <Compile Include="UploadAttachment\UploadAttachmentSuccessResponse.cs" />
